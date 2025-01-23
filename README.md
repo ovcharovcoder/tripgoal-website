@@ -1,4 +1,4 @@
-# tripgoal-frontend
+<h1>Website "TripGoal"</h1>
 <h2>About</h2>
 <ul>
   <li>Site name: "TripGoal";</li>
