@@ -9,7 +9,7 @@
     <p>The site about travel and recreation in different parts of the world.</p>
   </li>
   <li>View source files: https://github.com/ovcharovcoder/tripgoal-project-src</li>
-  <li>View website: (https://ovcharovcoder.github.io/tripgoal-frontend)</li>
+  <li>View website: (https://ovcharovcoder.github.io/tripgoal-website)</li>
 </ul>
 
 <img src="screenshot.png" alt="screensot">
